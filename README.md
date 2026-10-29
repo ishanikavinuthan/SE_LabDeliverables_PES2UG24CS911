@@ -16,9 +16,11 @@
 
 ## Lab 4 – Project Details
 
+### Project Description
+
 Number Guessing Repair Lab is an interactive number-guessing game developed using Python and Pygame. Players guess a randomly generated number between 1 and 100 using hints provided by the game.
 
-**Features:**
+### Features
 
 - Interactive number-guessing gameplay
 - Safe handling of empty inputs
@@ -27,4 +29,6 @@ Number Guessing Repair Lab is an interactive number-guessing game developed usin
 - Maximum of seven attempts
 - Game Over state and restart functionality
 
-**Repository:** [60_number_guess](https://github.com/SETAPESU26/60_number_guess)
+### Original Source Code
+
+[60_number_guess – GitHub Repository](https://github.com/ishanikavinuthan/60_number_guess)
