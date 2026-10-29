@@ -13,4 +13,4 @@ Number Guessing Repair Lab is an interactive number-guessing game developed usin
 
 ## Original Source Code
 
-[60_number_guess](https://github.com/SETAPESU26/60_number_guess)
+[60_number_guess](https://github.com/ishanikavinuthan/60_number_guess)
